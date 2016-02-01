@@ -221,6 +221,156 @@ Array<T> join(const int dim, const std::vector<Array<T>> &inputs)
 	case 50:
 		getQueue().enqueue(kernel::join<T, 50>, dim, out, inputs);
 		break;
+	case 51:
+		getQueue().enqueue(kernel::join<T, 51>, dim, out, inputs);
+		break;
+	case 52:
+		getQueue().enqueue(kernel::join<T, 52>, dim, out, inputs);
+		break;
+	case 53:
+		getQueue().enqueue(kernel::join<T, 53>, dim, out, inputs);
+		break;
+	case 54:
+		getQueue().enqueue(kernel::join<T, 54>, dim, out, inputs);
+		break;
+	case 55:
+		getQueue().enqueue(kernel::join<T, 55>, dim, out, inputs);
+		break;
+	case 56:
+		getQueue().enqueue(kernel::join<T, 56>, dim, out, inputs);
+		break;
+	case 57:
+		getQueue().enqueue(kernel::join<T, 57>, dim, out, inputs);
+		break;
+	case 58:
+		getQueue().enqueue(kernel::join<T, 58>, dim, out, inputs);
+		break;
+	case 59:
+		getQueue().enqueue(kernel::join<T, 59>, dim, out, inputs);
+		break;
+	case 60:
+		getQueue().enqueue(kernel::join<T, 60>, dim, out, inputs);
+		break;
+	case 61:
+		getQueue().enqueue(kernel::join<T, 61>, dim, out, inputs);
+		break;
+	case 62:
+		getQueue().enqueue(kernel::join<T, 62>, dim, out, inputs);
+		break;
+	case 63:
+		getQueue().enqueue(kernel::join<T, 63>, dim, out, inputs);
+		break;
+	case 64:
+		getQueue().enqueue(kernel::join<T, 64>, dim, out, inputs);
+		break;
+	case 65:
+		getQueue().enqueue(kernel::join<T, 65>, dim, out, inputs);
+		break;
+	case 66:
+		getQueue().enqueue(kernel::join<T, 66>, dim, out, inputs);
+		break;
+	case 67:
+		getQueue().enqueue(kernel::join<T, 67>, dim, out, inputs);
+		break;
+	case 68:
+		getQueue().enqueue(kernel::join<T, 68>, dim, out, inputs);
+		break;
+	case 69:
+		getQueue().enqueue(kernel::join<T, 69>, dim, out, inputs);
+		break;
+	case 70:
+		getQueue().enqueue(kernel::join<T, 70>, dim, out, inputs);
+		break;
+	case 71:
+		getQueue().enqueue(kernel::join<T, 71>, dim, out, inputs);
+		break;
+	case 72:
+		getQueue().enqueue(kernel::join<T, 72>, dim, out, inputs);
+		break;
+	case 73:
+		getQueue().enqueue(kernel::join<T, 73>, dim, out, inputs);
+		break;
+	case 74:
+		getQueue().enqueue(kernel::join<T, 74>, dim, out, inputs);
+		break;
+	case 75:
+		getQueue().enqueue(kernel::join<T, 75>, dim, out, inputs);
+		break;
+	case 76:
+		getQueue().enqueue(kernel::join<T, 76>, dim, out, inputs);
+		break;
+	case 77:
+		getQueue().enqueue(kernel::join<T, 77>, dim, out, inputs);
+		break;
+	case 78:
+		getQueue().enqueue(kernel::join<T, 78>, dim, out, inputs);
+		break;
+	case 79:
+		getQueue().enqueue(kernel::join<T, 79>, dim, out, inputs);
+		break;
+	case 80:
+		getQueue().enqueue(kernel::join<T, 80>, dim, out, inputs);
+		break;
+	case 81:
+		getQueue().enqueue(kernel::join<T, 81>, dim, out, inputs);
+		break;
+	case 82:
+		getQueue().enqueue(kernel::join<T, 82>, dim, out, inputs);
+		break;
+	case 83:
+		getQueue().enqueue(kernel::join<T, 83>, dim, out, inputs);
+		break;
+	case 84:
+		getQueue().enqueue(kernel::join<T, 84>, dim, out, inputs);
+		break;
+	case 85:
+		getQueue().enqueue(kernel::join<T, 85>, dim, out, inputs);
+		break;
+	case 86:
+		getQueue().enqueue(kernel::join<T, 86>, dim, out, inputs);
+		break;
+	case 87:
+		getQueue().enqueue(kernel::join<T, 87>, dim, out, inputs);
+		break;
+	case 88:
+		getQueue().enqueue(kernel::join<T, 88>, dim, out, inputs);
+		break;
+	case 89:
+		getQueue().enqueue(kernel::join<T, 89>, dim, out, inputs);
+		break;
+	case 90:
+		getQueue().enqueue(kernel::join<T, 90>, dim, out, inputs);
+		break;
+	case 91:
+		getQueue().enqueue(kernel::join<T, 91>, dim, out, inputs);
+		break;
+	case 92:
+		getQueue().enqueue(kernel::join<T, 92>, dim, out, inputs);
+		break;
+	case 93:
+		getQueue().enqueue(kernel::join<T, 93>, dim, out, inputs);
+		break;
+	case 94:
+		getQueue().enqueue(kernel::join<T, 94>, dim, out, inputs);
+		break;
+	case 95:
+		getQueue().enqueue(kernel::join<T, 95>, dim, out, inputs);
+		break;
+	case 96:
+		getQueue().enqueue(kernel::join<T, 96>, dim, out, inputs);
+		break;
+	case 97:
+		getQueue().enqueue(kernel::join<T, 97>, dim, out, inputs);
+		break;
+	case 98:
+		getQueue().enqueue(kernel::join<T, 98>, dim, out, inputs);
+		break;
+	case 99:
+		getQueue().enqueue(kernel::join<T, 99>, dim, out, inputs);
+		break;
+	case 100:
+		getQueue().enqueue(kernel::join<T, 100>, dim, out, inputs);
+		break;
     }
 
     return out;
