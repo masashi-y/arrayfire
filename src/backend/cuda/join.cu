@@ -163,6 +163,276 @@ namespace cuda
             case 10:
                 join_wrapper<T,10>(dim, out, inputs);
                 break;
+			case 11:
+				join_wrapper<T, 11>(dim, out, inputs);
+				break;
+			case 12:
+				join_wrapper<T, 12>(dim, out, inputs);
+				break;
+			case 13:
+				join_wrapper<T, 13>(dim, out, inputs);
+				break;
+			case 14:
+				join_wrapper<T, 14>(dim, out, inputs);
+				break;
+			case 15:
+				join_wrapper<T, 15>(dim, out, inputs);
+				break;
+			case 16:
+				join_wrapper<T, 16>(dim, out, inputs);
+				break;
+			case 17:
+				join_wrapper<T, 17>(dim, out, inputs);
+				break;
+			case 18:
+				join_wrapper<T, 18>(dim, out, inputs);
+				break;
+			case 19:
+				join_wrapper<T, 19>(dim, out, inputs);
+				break;
+			case 20:
+				join_wrapper<T, 20>(dim, out, inputs);
+				break;
+			case 21:
+				join_wrapper<T, 21>(dim, out, inputs);
+				break;
+			case 22:
+				join_wrapper<T, 22>(dim, out, inputs);
+				break;
+			case 23:
+				join_wrapper<T, 23>(dim, out, inputs);
+				break;
+			case 24:
+				join_wrapper<T, 24>(dim, out, inputs);
+				break;
+			case 25:
+				join_wrapper<T, 25>(dim, out, inputs);
+				break;
+			case 26:
+				join_wrapper<T, 26>(dim, out, inputs);
+				break;
+			case 27:
+				join_wrapper<T, 27>(dim, out, inputs);
+				break;
+			case 28:
+				join_wrapper<T, 28>(dim, out, inputs);
+				break;
+			case 29:
+				join_wrapper<T, 29>(dim, out, inputs);
+				break;
+			case 30:
+				join_wrapper<T, 30>(dim, out, inputs);
+				break;
+			case 31:
+				join_wrapper<T, 31>(dim, out, inputs);
+				break;
+			case 32:
+				join_wrapper<T, 32>(dim, out, inputs);
+				break;
+			case 33:
+				join_wrapper<T, 33>(dim, out, inputs);
+				break;
+			case 34:
+				join_wrapper<T, 34>(dim, out, inputs);
+				break;
+			case 35:
+				join_wrapper<T, 35>(dim, out, inputs);
+				break;
+			case 36:
+				join_wrapper<T, 36>(dim, out, inputs);
+				break;
+			case 37:
+				join_wrapper<T, 37>(dim, out, inputs);
+				break;
+			case 38:
+				join_wrapper<T, 38>(dim, out, inputs);
+				break;
+			case 39:
+				join_wrapper<T, 39>(dim, out, inputs);
+				break;
+			case 40:
+				join_wrapper<T, 40>(dim, out, inputs);
+				break;
+			case 41:
+				join_wrapper<T, 41>(dim, out, inputs);
+				break;
+			case 42:
+				join_wrapper<T, 42>(dim, out, inputs);
+				break;
+			case 43:
+				join_wrapper<T, 43>(dim, out, inputs);
+				break;
+			case 44:
+				join_wrapper<T, 44>(dim, out, inputs);
+				break;
+			case 45:
+				join_wrapper<T, 45>(dim, out, inputs);
+				break;
+			case 46:
+				join_wrapper<T, 46>(dim, out, inputs);
+				break;
+			case 47:
+				join_wrapper<T, 47>(dim, out, inputs);
+				break;
+			case 48:
+				join_wrapper<T, 48>(dim, out, inputs);
+				break;
+			case 49:
+				join_wrapper<T, 49>(dim, out, inputs);
+				break;
+			case 50:
+				join_wrapper<T, 50>(dim, out, inputs);
+				break;
+			case 51:
+				join_wrapper<T, 51>(dim, out, inputs);
+				break;
+			case 52:
+				join_wrapper<T, 52>(dim, out, inputs);
+				break;
+			case 53:
+				join_wrapper<T, 53>(dim, out, inputs);
+				break;
+			case 54:
+				join_wrapper<T, 54>(dim, out, inputs);
+				break;
+			case 55:
+				join_wrapper<T, 55>(dim, out, inputs);
+				break;
+			case 56:
+				join_wrapper<T, 56>(dim, out, inputs);
+				break;
+			case 57:
+				join_wrapper<T, 57>(dim, out, inputs);
+				break;
+			case 58:
+				join_wrapper<T, 58>(dim, out, inputs);
+				break;
+			case 59:
+				join_wrapper<T, 59>(dim, out, inputs);
+				break;
+			case 60:
+				join_wrapper<T, 60>(dim, out, inputs);
+				break;
+			case 61:
+				join_wrapper<T, 61>(dim, out, inputs);
+				break;
+			case 62:
+				join_wrapper<T, 62>(dim, out, inputs);
+				break;
+			case 63:
+				join_wrapper<T, 63>(dim, out, inputs);
+				break;
+			case 64:
+				join_wrapper<T, 64>(dim, out, inputs);
+				break;
+			case 65:
+				join_wrapper<T, 65>(dim, out, inputs);
+				break;
+			case 66:
+				join_wrapper<T, 66>(dim, out, inputs);
+				break;
+			case 67:
+				join_wrapper<T, 67>(dim, out, inputs);
+				break;
+			case 68:
+				join_wrapper<T, 68>(dim, out, inputs);
+				break;
+			case 69:
+				join_wrapper<T, 69>(dim, out, inputs);
+				break;
+			case 70:
+				join_wrapper<T, 70>(dim, out, inputs);
+				break;
+			case 71:
+				join_wrapper<T, 71>(dim, out, inputs);
+				break;
+			case 72:
+				join_wrapper<T, 72>(dim, out, inputs);
+				break;
+			case 73:
+				join_wrapper<T, 73>(dim, out, inputs);
+				break;
+			case 74:
+				join_wrapper<T, 74>(dim, out, inputs);
+				break;
+			case 75:
+				join_wrapper<T, 75>(dim, out, inputs);
+				break;
+			case 76:
+				join_wrapper<T, 76>(dim, out, inputs);
+				break;
+			case 77:
+				join_wrapper<T, 77>(dim, out, inputs);
+				break;
+			case 78:
+				join_wrapper<T, 78>(dim, out, inputs);
+				break;
+			case 79:
+				join_wrapper<T, 79>(dim, out, inputs);
+				break;
+			case 80:
+				join_wrapper<T, 80>(dim, out, inputs);
+				break;
+			case 81:
+				join_wrapper<T, 81>(dim, out, inputs);
+				break;
+			case 82:
+				join_wrapper<T, 82>(dim, out, inputs);
+				break;
+			case 83:
+				join_wrapper<T, 83>(dim, out, inputs);
+				break;
+			case 84:
+				join_wrapper<T, 84>(dim, out, inputs);
+				break;
+			case 85:
+				join_wrapper<T, 85>(dim, out, inputs);
+				break;
+			case 86:
+				join_wrapper<T, 86>(dim, out, inputs);
+				break;
+			case 87:
+				join_wrapper<T, 87>(dim, out, inputs);
+				break;
+			case 88:
+				join_wrapper<T, 88>(dim, out, inputs);
+				break;
+			case 89:
+				join_wrapper<T, 89>(dim, out, inputs);
+				break;
+			case 90:
+				join_wrapper<T, 90>(dim, out, inputs);
+				break;
+			case 91:
+				join_wrapper<T, 91>(dim, out, inputs);
+				break;
+			case 92:
+				join_wrapper<T, 92>(dim, out, inputs);
+				break;
+			case 93:
+				join_wrapper<T, 93>(dim, out, inputs);
+				break;
+			case 94:
+				join_wrapper<T, 94>(dim, out, inputs);
+				break;
+			case 95:
+				join_wrapper<T, 95>(dim, out, inputs);
+				break;
+			case 96:
+				join_wrapper<T, 96>(dim, out, inputs);
+				break;
+			case 97:
+				join_wrapper<T, 97>(dim, out, inputs);
+				break;
+			case 98:
+				join_wrapper<T, 98>(dim, out, inputs);
+				break;
+			case 99:
+				join_wrapper<T, 99>(dim, out, inputs);
+				break;
+			case 100:
+				join_wrapper<T, 100>(dim, out, inputs);
+				break;
         }
         return out;
     }
